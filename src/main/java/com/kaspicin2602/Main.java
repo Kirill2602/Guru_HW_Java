@@ -36,6 +36,7 @@ public class Main {
         System.out.println((byte) (varByte2 + 2));
         System.out.println((short) (varShort2 + 10));
 
+        //Логические операторы
         System.out.println((char) 27 + "[33m########## Логические операторы ############");
         if (isTrue) {
             System.out.println("истина");
